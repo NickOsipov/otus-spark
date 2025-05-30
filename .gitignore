@@ -6,3 +6,5 @@ sa-key.json
 .vscode
 buf
 *.txt
+.venv
+*.parquet
