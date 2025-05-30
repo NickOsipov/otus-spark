@@ -4,7 +4,7 @@ file_path=$1
 source .bashrc
 
 # Установка переменных
-YC_BUCKET=otus-dataproc-bucket
+YC_BUCKET=otus-dataproc-bucket-osipov
 
 # Загрузка данных в бакет
 log "Uploading data to bucket..."

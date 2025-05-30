@@ -2,7 +2,7 @@
 source .bashrc
 
 # Установка переменных
-YC_BUCKET=otus-dataproc-bucket
+YC_BUCKET=otus-dataproc-bucket-osipov
 
 # Создание бакета
 log "Creating bucket $YC_BUCKET..."

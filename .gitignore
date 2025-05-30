@@ -4,3 +4,5 @@ metadata.yaml
 sa-key.json
 !.gitkeep
 .vscode
+buf
+*.txt

@@ -8,7 +8,7 @@ vm_name=$1
 YC_ZONE=ru-central1-a
 YC_SUBNET_NAME=otus-dataproc-subnet
 YC_SA_NAME=otus
-YC_USER=<Указать имя пользователя>
+YC_USER=osipov
 
 # Создание виртуальной машины
 log "Creating virtual machine..."
